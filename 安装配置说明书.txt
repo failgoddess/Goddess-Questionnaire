@@ -1,0 +1,17 @@
+安装说明
+项目发布直接压缩了二进制程序解压即可使用，如需war包可用源代码进行编译
+
+初始化小程序参数
+在数据库中的wx_param表如实填写
+appId和appSecret
+需要使用自动更新accessToken 请在web.xml中打开 注释关闭的 <!--classpath:spring-quartz.xml,-->
+
+数据库链接配置
+在data.properties文件中 设置mysql和redis的数据库连接信息
+
+后台超管登陆
+用户名：admin
+密   码：123qwe
+
+关于海报的说明
+微信小程序的海报生成时小程序码为固定小程序码、如需上线使用请预先生成小程序码动态更新
