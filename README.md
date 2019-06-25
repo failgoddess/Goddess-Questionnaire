@@ -71,7 +71,7 @@ BMap	百度地图推出的小程序端的地图插件，用于定位用户信息
 （1）单选题界面提供题目图片的上传、选项图片的上传、可以选择被调查者是否必须作答、单选题选项数量不能低于2个、在选择问卷模式为试卷后必须设置其中一个为正确答案。
 （2）多选题提供题目选项的图片上传、选择是否必须作答、选项数量不能低于两个、在选择问卷模式为试卷后必须至少设置其中两个为正确答案。
 （3）填空题可上传题目图片、设置是否必须作答、可在手机号、邮箱、二代身份证号等选择一种验证方式限制被调查者输入信息。
-![](https://raw.githubusercontent.com/LDOUBLEV/style_transfer-perceptual_loss/master/scene-transfer.png)
+
 （4）简答题提供题目的图片上传、选择是否必答、选择显示时多行文本的行数。
 （5）评分题可设置题目图片、在2-10之间选择设置最高分、选择被调查者是否必须作答。
 （6）定位题、位置题、文件题、图片题这四种题型默认为必答题。
@@ -82,4 +82,10 @@ BMap	百度地图推出的小程序端的地图插件，用于定位用户信息
 本系统按钮资源、角色、用户之间为多对多对多关系两两之间采用关联表进行关联。可任意创建角色分配资源也可以创建用户分配角色超级管理员角色拥有全部权限。
 本系统填空题验证通过正则表达式实现共有：非空、手机、邮箱、姓名、身份证、日期、含零整数、非零整数、QQ九种。超级管理员可以后期对验证方式进行管理。
 
+![](https://github.com/failgoddess/Goddess-Questionnaire/blob/master/1.png)
+![](https://github.com/failgoddess/Goddess-Questionnaire/blob/master/2.png)
+![](https://github.com/failgoddess/Goddess-Questionnaire/blob/master/3.png)
+![](https://github.com/failgoddess/Goddess-Questionnaire/blob/master/4.png)
+![](https://github.com/failgoddess/Goddess-Questionnaire/blob/master/5.png)
+![](https://github.com/failgoddess/Goddess-Questionnaire/blob/master/6.png)
 
