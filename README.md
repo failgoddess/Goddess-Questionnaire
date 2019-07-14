@@ -1,10 +1,11 @@
 Goddess-Questionnaire女神问卷
 
+各位大神若有项目问题可直接加我 微信：18733123202（失败女神）
+
 女神问卷演示视频（问卷部分）：https://v.youku.com/v_show/id_XNDI3Mjc5MzExMg==.html?spm=a2h3j.8428770.3416059.1
 
 
 女神问卷全部视频演示：https://v.youku.com/v_show/id_XNDI3Mjc5Njg2MA==.html?spm=a2h3j.8428770.3416059.1
-
 
 本文介绍了一个B/S结构下微信小程序的在线问卷调查系统，其后台可在主流浏览器上进行操作，前台采用微信小程序。它使用集成框架Spring+Sring MVC+MyBatis，存储数据库选用关系型数据库MySql，缓存数据库采用非关系型数据库Redis，服务器选用Apache Tomcat和Nginx相结合的方式。它的代码部分主要开发工具为IntelliJ IDEA和微信开发者工具。以图表的方式实现对问卷结果的数据分析。代码部分实现了前端问卷调查系统和后端管理系统的分离。采用Redis数据库做高速缓存提高访问效率。利用FFmpeg将MP4视频转为m3u8格式实现在线播放视频。
 需求分析
