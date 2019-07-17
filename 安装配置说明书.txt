@@ -9,9 +9,13 @@ appId和appSecret
 数据库链接配置
 在data.properties文件中 设置mysql和redis的数据库连接信息
 
+安装ffmepg软件
+在cn.csl.basics.controller.VideoController类中配置安装路径;
+
 后台超管登陆
 用户名：admin
 密   码：123qwe
 
 关于海报的说明
 微信小程序的海报生成时小程序码为固定小程序码、如需上线使用请预先生成小程序码动态更新
+
